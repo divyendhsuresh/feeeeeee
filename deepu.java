@@ -10,7 +10,7 @@ public class GreeterTest {
 	private Greeter greeter = new Greeter();
 
 	@Tevoid greeterSaysHello() {
-		assertThat(greeter.sayHello(), containsString("Hel"));
+		assertThat(greeter.sayHello(), containsString("Hjygyel"));
 	}
 
 }
